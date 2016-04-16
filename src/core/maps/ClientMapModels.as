@@ -1,5 +1,4 @@
 package core.maps {
-import core.model.interfaces.ISettings;
 import core.model.models.GeneralSettingsModel;
 
 import org.robotlegs.core.IInjector;
@@ -13,7 +12,7 @@ import org.robotlegs.core.IInjector;
 		}
 
 		private function init():void {
-			injector.mapSingletonOf(ISettings, GeneralSettingsModel);
+			injector.mapSingleton(GeneralSettingsModel);
 		}
 	}
 }

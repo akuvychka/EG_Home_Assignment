@@ -1,6 +1,8 @@
 package core.maps {
+import core.controller.commands.OpenImageConfigCommand;
 import core.controller.commands.ShowClientCommand;
 import core.controller.commands.StartClientCommand;
+import core.controller.signals.OpenImageConfigSignal;
 import core.controller.signals.ShowClientSignal;
 import core.controller.signals.StartClientSignal;
 
@@ -20,6 +22,7 @@ import core.controller.signals.StartClientSignal;
 		private function init():void {
 			signalCommandMap.mapSignalClass(StartClientSignal, StartClientCommand);
 			signalCommandMap.mapSignalClass(ShowClientSignal, ShowClientCommand);
+            signalCommandMap.mapSignalClass(OpenImageConfigSignal, OpenImageConfigCommand);
 		}
 	}
 }
