@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fla/GuiTop.fla" afterPath="$PROJECT_DIR$/fla/GuiTop.fla" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapCommands.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapCommands.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapModels.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapModels.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapServices.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapServices.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapSignals.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapSignals.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapViews.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapViews.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EGHAMain.as" afterPath="$PROJECT_DIR$/src/EGHAMain.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/src/Fonts_en.as" afterPath="$PROJECT_DIR$/fonts/src/Fonts_en.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/model/models/GeneralSettingsModel.as" afterPath="$PROJECT_DIR$/src/core/model/models/GeneralSettingsModel.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/commands/OpenImageConfigCommand.as" afterPath="$PROJECT_DIR$/src/core/controller/commands/OpenImageConfigCommand.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/commands/ShowClientCommand.as" afterPath="$PROJECT_DIR$/src/core/controller/commands/ShowClientCommand.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/commands/StartClientCommand.as" afterPath="$PROJECT_DIR$/src/core/controller/commands/StartClientCommand.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/model/service/StartClientService.as" afterPath="$PROJECT_DIR$/src/core/model/service/StartClientService.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as" afterPath="$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/view/views/TopMenuView.as" afterPath="$PROJECT_DIR$/src/core/view/views/TopMenuView.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" name="Default" comment="" />
     <ignored path="EG_Home_Assignment.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -185,10 +168,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animals.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="animals.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="56" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.57954544">
+            <state line="18" column="135" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="description.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/description.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -200,17 +192,6 @@
             <state line="89" column="0" selection-start="2263" selection-end="2263" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#28#81#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageModel.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/model/models/component/ImageModel.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="131" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#38#91#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1115,8 +1096,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1136,7 +1117,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25080043" sideWeight="0.71651787" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25080043" sideWeight="0.71651787" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1221,15 +1202,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/core/controller/commands/components/AddNewPhotoCommand.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="45" selection-start="435" selection-end="435" vertical-scroll-proportion="0.41396105">
-          <folding>
-            <element signature="e#46#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/core/model/interfaces/ICollageService.as">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="46" selection-start="101" selection-end="135" vertical-scroll-proportion="0.08279221">
@@ -1348,7 +1320,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="56" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.57954544">
+        <state line="18" column="135" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

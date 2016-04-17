@@ -1,0 +1,8 @@
+settings.xnl - main config for setup application on start
+local.json - config with local images
+animals.json - config with images from networks
+
+work:
+- open config
+- generate
+- remove photos(use click on photo)
