@@ -1,4 +1,6 @@
 package core.maps {
+import core.model.models.CollageModel;
+import core.model.models.ErrorModel;
 import core.model.models.GeneralSettingsModel;
 
 import org.robotlegs.core.IInjector;
@@ -13,6 +15,8 @@ import org.robotlegs.core.IInjector;
 
 		private function init():void {
 			injector.mapSingleton(GeneralSettingsModel);
+            injector.mapSingleton(ErrorModel);
+            injector.mapSingleton(CollageModel)
 		}
 	}
 }

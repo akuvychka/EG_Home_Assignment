@@ -2,4 +2,10 @@
 <lang_en>	
 	<label key="top_menu_generate_button" value="generate"/>
 	<label key="top_menu_load_cfg_button" value="load cfg"/>
+	<label key="top_menu_load_files_button" value="load files"/>
+	<label key="choose_photos" value="choose photo fore collage"/>
+	<label key="wrong_cfg" value="Choose correct config for collage"/>
+    <label key="soon" value="This functionality will be soon"/>
+    <label key="last_photo" value="That was last photo. Choose other config"/>
+	<label key="ok" value="ok"/>
 </lang_en>

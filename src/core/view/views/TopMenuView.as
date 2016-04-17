@@ -15,6 +15,8 @@ public class TopMenuView extends AbstractView {
     public var btnChooseFiles:ExtendedButton;
 
     private var _openCfgSignal:Signal = new Signal();
+    private var _generateSignal:Signal = new Signal();
+    private var _loadFilesSignal:Signal = new Signal();
 
     public function TopMenuView() {
         linkage = "gui_top_mc";
@@ -23,17 +25,35 @@ public class TopMenuView extends AbstractView {
 
     override protected function complete():void {
         btnOpenCfg.addEventListener(MouseEvent.CLICK, onOpenCfg);
-        btnGenerate.setTextByKey("top_menu_generate_button")
-        btnOpenCfg.setTextByKey("top_menu_load_cfg_button");
+        btnGenerate.addEventListener(MouseEvent.CLICK, onGenerateClick);
+        btnChooseFiles.addEventListener(MouseEvent.CLICK, onLoadFiles);
+        btnGenerate.label_txt.value_txt.text = LocalizationUtils.getTextByKey("top_menu_generate_button");
+        btnOpenCfg.label_txt.value_txt.text = LocalizationUtils.getTextByKey("top_menu_load_cfg_button");
+        btnChooseFiles.label_txt.value_txt.text = LocalizationUtils.getTextByKey("top_menu_load_files_button");
+    }
+
+    private function onGenerateClick(event:MouseEvent):void {
+        _generateSignal.dispatch();
     }
 
     private function onOpenCfg(event:MouseEvent):void {
         _openCfgSignal.dispatch();
     }
 
+    private function onLoadFiles(event:MouseEvent):void {
+        _loadFilesSignal.dispatch();
+    }
+
     public function get openCfgSignal():Signal {
         return _openCfgSignal;
     }
 
+    public function get loadFilesSignal():Signal {
+        return _loadFilesSignal;
+    }
+
+    public function get generateSignal():Signal {
+        return _generateSignal;
+    }
 }
 }

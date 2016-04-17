@@ -8,14 +8,11 @@ public class StartClientCommand extends SignalCommand {
     public var startClientService:IStartClientService;
 
     public function StartClientCommand() {
-        super();
     }
 
     override public function execute():void {
         super.execute();
-
         startClientService.startClient();
-        trace("start command executed")
     }
 }
 }

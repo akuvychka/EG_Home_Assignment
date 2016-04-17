@@ -1,4 +1,5 @@
 package core.controller.commands {
+import core.controller.signals.errors.ShowErrorSignal;
 import core.model.models.GeneralSettingsModel;
 
 import flash.events.Event;
@@ -10,6 +11,8 @@ import org.robotlegs.mvcs.SignalCommand;
 public class OpenImageConfigCommand extends SignalCommand {
     [Inject]
     public var settingsModel:GeneralSettingsModel;
+    [Inject]
+    public var errorSignal:ShowErrorSignal;
 
     private var _fileRef:FileReference;
 
@@ -32,8 +35,14 @@ public class OpenImageConfigCommand extends SignalCommand {
     }
 
     private function onOpen(event:Event):void {
-        settingsModel.currentList = JSON.parse(_fileRef.data.toString()).list;
-        trace(settingsModel.currentList);
+        try {
+            settingsModel.currentList = JSON.parse(_fileRef.data.toString()).list;
+        } catch (error:Error) {
+            errorSignal.dispatch("wrong_cfg");
+        }
+        if (settingsModel.currentList == null){
+            errorSignal.dispatch("choose_photos");
+        }
     }
 
 }

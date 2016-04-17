@@ -2,25 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="E:\projects\EG_project\EG_Home_Assignment\src\core\model\interfaces\ISettings.as" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fla/GuiTop.fla" afterPath="$PROJECT_DIR$/fla/GuiTop.fla" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapCommands.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapCommands.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapModels.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapModels.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapServices.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapServices.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapSignals.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapSignals.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/maps/ClientMapViews.as" afterPath="$PROJECT_DIR$/src/core/maps/ClientMapViews.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/EGHAMain.as" afterPath="$PROJECT_DIR$/src/EGHAMain.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EG_Home_Assignment.iml" afterPath="$PROJECT_DIR$/EG_Home_Assignment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/src/Fonts_en.as" afterPath="$PROJECT_DIR$/fonts/src/Fonts_en.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/model/models/GeneralSettingsModel.as" afterPath="$PROJECT_DIR$/src/core/model/models/GeneralSettingsModel.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/commands/OpenImageConfigCommand.as" afterPath="$PROJECT_DIR$/src/core/controller/commands/OpenImageConfigCommand.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/commands/ShowClientCommand.as" afterPath="$PROJECT_DIR$/src/core/controller/commands/ShowClientCommand.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/controller/commands/StartClientCommand.as" afterPath="$PROJECT_DIR$/src/core/controller/commands/StartClientCommand.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/model/service/StartClientService.as" afterPath="$PROJECT_DIR$/src/core/model/service/StartClientService.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as" afterPath="$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/core/view/views/TopMenuView.as" afterPath="$PROJECT_DIR$/src/core/view/views/TopMenuView.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/flexCompiler.xml" afterPath="$PROJECT_DIR$/.idea/flexCompiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EG_Home_Assignment.iws" />
@@ -28,19 +24,48 @@
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <file path="/Dummy.txt" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460816178700" ignored="false" />
-    <file path="/a.dummy" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460748038517" ignored="false" />
-    <file path="/fragment.js2" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460752227328" ignored="false" />
-    <file path="/StartClientService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460752237743" ignored="false" />
+    <file path="/a.dummy" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460840208011" ignored="false" />
+    <file path="/fragment.js2" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460920049783" ignored="false" />
+    <file path="/StartClientService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460841476755" ignored="false" />
     <file path="$PROJECT_DIR$/../../Robots/Robots/rob_new/Robots/client/src/com/robots/model/services/StartClientService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460666554652" ignored="false" />
     <file path="/Fonts_ru.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460668527917" ignored="false" />
-    <file path="/TopMenuView.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460816658329" ignored="false" />
-    <file path="/TopMenuMediator.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460746585868" ignored="false" />
-    <file path="/ClientMapCommands.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460746535754" ignored="false" />
-    <file path="/OpenImageConfigCommand.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460751312505" ignored="false" />
-    <file path="/Fonts_en.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460748282192" ignored="false" />
+    <file path="/TopMenuView.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460927994254" ignored="false" />
+    <file path="/TopMenuMediator.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460928104780" ignored="false" />
+    <file path="/ClientMapCommands.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460920081864" ignored="false" />
+    <file path="/OpenImageConfigCommand.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460887504877" ignored="false" />
+    <file path="/Fonts_en.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460832081485" ignored="false" />
     <file path="/ISettings.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460750962340" ignored="false" />
-    <file path="/GeneralSettingsModel.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460751095269" ignored="false" />
-    <file path="/ClientMapModels.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460751476499" ignored="false" />
+    <file path="/GeneralSettingsModel.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460841414594" ignored="false" />
+    <file path="/ClientMapModels.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460887244421" ignored="false" />
+    <file path="/EGHAMain.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460835112650" ignored="false" />
+    <file path="/GenerateCollageSignal.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460821882608" ignored="false" />
+    <file path="/ShowErroSignal.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460822193952" ignored="false" />
+    <file path="/ShowErrorCommand.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460831030138" ignored="false" />
+    <file path="/ErrorWindow.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460823326111" ignored="false" />
+    <file path="/ErrorModel.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460823689752" ignored="false" />
+    <file path="/ClientMapViews.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460836008862" ignored="false" />
+    <file path="/ErrowWindowMediator.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460828638121" ignored="false" />
+    <file path="/ErrorWindowView.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460834756182" ignored="false" />
+    <file path="/ErrorWindowMediator.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460830809943" ignored="false" />
+    <file path="/CollageObjectView.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460921897155" ignored="false" />
+    <file path="/CollageObjectMediator.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460927418710" ignored="false" />
+    <file path="/ShowClientCommand.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460836111298" ignored="false" />
+    <file path="/fragment.js" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460887617773" ignored="false" />
+    <file path="/GenerateCollageCommand.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460887442726" ignored="false" />
+    <file path="/CollageImageItem.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460923538107" ignored="false" />
+    <file path="/ICollageItem.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460923332179" ignored="false" />
+    <file path="/CollageItemSignal.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460839203757" ignored="false" />
+    <file path="/CollageItemStateConst.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460922082599" ignored="false" />
+    <file path="/CollageService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460926881495" ignored="false" />
+    <file path="/ICollageService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460924480669" ignored="false" />
+    <file path="/ClientMapServices.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460902912196" ignored="false" />
+    <file path="/CollageModal.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460895669953" ignored="false" />
+    <file path="/CollageModel.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460926900244" ignored="false" />
+    <file path="/ImageModel.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460920258500" ignored="false" />
+    <file path="/ImageFactoryService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460920231549" ignored="false" />
+    <file path="/AddNewPhotoSignal.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460921708087" ignored="false" />
+    <file path="/IImageFactoryService.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460920211310" ignored="false" />
+    <file path="/AddNewPhotoCommand.as" changelist="de8da9ba-39f9-4ec5-8c45-5cf284fc243d" time="1460924491771" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,28 +125,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="CollageObjectMediator.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/view/mediators/CollageObjectMediator.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="103" column="100" selection-start="3989" selection-end="3989" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#30#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollageImageItem.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/view/views/components/CollageImageItem.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#37#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CollageService.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/model/service/CollageService.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="44" selection-start="3922" selection-end="3932" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#29#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="TopMenuMediator.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="60" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+            <state line="37" column="34" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientMapModels.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/maps/ClientMapModels.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="63" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TopMenuView.as" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TopMenuView.as" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/core/view/views/TopMenuView.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="45" selection-start="994" selection-end="994" vertical-scroll-proportion="0.46896553">
+            <state line="37" column="127" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,26 +179,50 @@
       <file leaf-file-name="base.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/xml/en/base.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="56" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="9" column="127" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartClientService.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/core/model/service/StartClientService.as">
+      <file leaf-file-name="animals.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="31" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
+            <state line="21" column="56" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.57954544">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fonts_en.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fonts/src/Fonts_en.as">
+      <file leaf-file-name="CollageModel.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/model/models/CollageModel.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="89" column="0" selection-start="2263" selection-end="2263" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#28#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageModel.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/model/models/component/ImageModel.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="131" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#38#91#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageFactoryService.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/model/service/ImageFactoryService.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="22" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#29#86#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,21 +258,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/fonts/src/Fonts_ru.as" />
-        <option value="$PROJECT_DIR$/src/EGHAMain.as" />
-        <option value="$PROJECT_DIR$/src/core/controller/signals/OpenImageConfigSignal.as" />
-        <option value="$PROJECT_DIR$/src/core/maps/ClientMapCommands.as" />
-        <option value="$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as" />
-        <option value="$PROJECT_DIR$/fonts/src/Fonts_en.as" />
-        <option value="$PROJECT_DIR$/src/core/model/interfaces/ISettings.as" />
-        <option value="$PROJECT_DIR$/src/core/controller/commands/OpenImageConfigCommand.as" />
-        <option value="$PROJECT_DIR$/src/core/model/models/GeneralSettingsModel.as" />
-        <option value="$PROJECT_DIR$/src/core/maps/ClientMapModels.as" />
+        <option value="$PROJECT_DIR$/src/core/model/models/component/ImageModel.as" />
+        <option value="$PROJECT_DIR$/src/core/controller/signals/components/AddNewPhotoSignal.as" />
         <option value="$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/local.json" />
-        <option value="$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json" />
-        <option value="$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/xml/en/base.xml" />
-        <option value="$PROJECT_DIR$/src/core/model/service/StartClientService.as" />
+        <option value="$PROJECT_DIR$/src/core/consts/view/components/CollageItemStateConst.as" />
+        <option value="$PROJECT_DIR$/src/core/view/views/CollageObjectView.as" />
+        <option value="$PROJECT_DIR$/src/core/view/views/interfaces/ICollageItem.as" />
+        <option value="$PROJECT_DIR$/src/core/view/views/components/CollageImageItem.as" />
+        <option value="$PROJECT_DIR$/src/core/model/interfaces/ICollageService.as" />
+        <option value="$PROJECT_DIR$/src/core/controller/commands/components/AddNewPhotoCommand.as" />
+        <option value="$PROJECT_DIR$/src/core/model/models/CollageModel.as" />
+        <option value="$PROJECT_DIR$/src/core/model/service/CollageService.as" />
+        <option value="$PROJECT_DIR$/src/core/view/mediators/CollageObjectMediator.as" />
         <option value="$PROJECT_DIR$/src/core/view/views/TopMenuView.as" />
+        <option value="$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as" />
+        <option value="$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/xml/en/base.xml" />
+        <option value="$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json" />
       </list>
     </option>
   </component>
@@ -407,7 +481,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -429,7 +507,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="maps" />
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -452,6 +552,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -496,6 +630,118 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="errors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="context" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="consts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EG_Home_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="consts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -550,11 +796,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="core.controller.commands.components" />
+      <recent name="core.controller.signals.components" />
       <recent name="core.controller.signals" />
-      <recent name="core.controller.commands" />
-      <recent name="core.view.views" />
-      <recent name="core.view.mediators" />
-      <recent name="core.model.models" />
+      <recent name="core.model.interfaces" />
+      <recent name="core.model.service" />
     </key>
   </component>
   <component name="RunManager" selected="Flash App.EG_Home_Assignment">
@@ -848,27 +1094,49 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="14390000" />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28348213" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28348213" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.71651787" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25080043" sideWeight="0.71651787" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -877,8 +1145,6 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -944,7 +1210,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="62" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -952,98 +1221,134 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/EGHAMain.as">
+    <entry file="file://$PROJECT_DIR$/src/core/controller/commands/components/AddNewPhotoCommand.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="62" selection-start="327" selection-end="327" vertical-scroll-proportion="0.20695652" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../fullSdk/frameworks/projects/framework/src/mx/binding/Binding.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="0" selection-start="2890" selection-end="2890" vertical-scroll-proportion="0.33279222" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/model/interfaces/IStartClientService.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="84" selection-end="84" vertical-scroll-proportion="0.055194806" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/controller/commands/StartClientCommand.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="31" selection-start="423" selection-end="423" vertical-scroll-proportion="0.38636363">
-          <folding />
+        <state line="15" column="45" selection-start="435" selection-end="435" vertical-scroll-proportion="0.41396105">
+          <folding>
+            <element signature="e#46#91#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/controller/signals/StartClientSignal.as">
+    <entry file="file://$PROJECT_DIR$/src/core/model/interfaces/ICollageService.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/model/models/GeneralSettingsModel.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.055194806" />
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/framework.swc!/library.swf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4297" column="44" selection-start="194172" selection-end="194178" vertical-scroll-proportion="0.4742952">
+        <state line="3" column="46" selection-start="101" selection-end="135" vertical-scroll-proportion="0.08279221">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="12" selection-end="12" vertical-scroll-proportion="0.027597403" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/local.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="152" selection-start="130" selection-end="130" vertical-scroll-proportion="0.19318181" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/controller/commands/OpenImageConfigCommand.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="43" selection-start="936" selection-end="936" vertical-scroll-proportion="0.66883117" />
+        <state line="14" column="47" selection-start="397" selection-end="449" vertical-scroll-proportion="0.30357143">
+          <folding>
+            <element signature="e#35#89#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/xml/en/base.xml">
+    <entry file="file://$PROJECT_DIR$/src/core/model/interfaces/IImageFactoryService.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="56" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+        <state line="6" column="13" selection-start="214" selection-end="214" vertical-scroll-proportion="0.16558442">
+          <folding>
+            <element signature="e#32#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/model/models/component/ImageModel.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="131" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#38#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/model/service/ImageFactoryService.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#29#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/view/views/interfaces/ICollageItem.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#37#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/model/models/CollageModel.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="0" selection-start="2263" selection-end="2263" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#28#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../fullSdk/frameworks/projects/spark/src/spark/effects/animation/Animation.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="569" column="0" selection-start="17758" selection-end="17758" vertical-scroll-proportion="0.33279222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/view/views/components/CollageImageItem.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#37#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/view/views/TopMenuView.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="127" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/core/view/mediators/TopMenuMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="60" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+        <state line="37" column="34" selection-start="1090" selection-end="1090" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/maps/ClientMapModels.as">
+    <entry file="file://$PROJECT_DIR$/src/core/model/service/CollageService.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="63" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+        <state line="114" column="44" selection-start="3922" selection-end="3932" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#29#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/xml/en/base.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="127" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/model/service/StartClientService.as">
+    <entry file="file://$PROJECT_DIR$/src/core/view/mediators/CollageObjectMediator.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="31" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="103" column="100" selection-start="3989" selection-end="3989" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#30#88#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/src/Fonts_en.as">
+    <entry file="file://$PROJECT_DIR$/out/production/EG_Home_Assignment/assets/config/animals.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/core/view/views/TopMenuView.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="45" selection-start="994" selection-end="994" vertical-scroll-proportion="0.46896553">
+        <state line="21" column="56" selection-start="1546" selection-end="1546" vertical-scroll-proportion="0.57954544">
           <folding />
         </state>
       </provider>

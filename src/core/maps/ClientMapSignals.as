@@ -10,8 +10,7 @@ package core.maps {
 		}
 
 		private function init():void {
-			trace("init ClientMapSignals");
-		//	injector.mapSingleton(ShowGarageSignal);
+		//	injector.mapSingleton();
 
 		}
 	}
